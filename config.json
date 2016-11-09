@@ -1,0 +1,12 @@
+{
+    "url": "http://cil-forum.mybluemix.net/",
+    "secret": "cd53c1a0-ccf4-4394-b903-2391ef42aae2",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds149207.mlab.com",
+        "port": "49207",
+        "username": "forumuser",
+        "password": "forumpwd123",
+        "database": "forumdb"
+    }
+}
