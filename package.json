@@ -10,7 +10,7 @@
   },
   "main": "app.js",
   "scripts": {
-    "start": "node loader.js",
+    "start": "node app.js",
     "lint": "eslint --cache .",
     "pretest": "npm run lint",
     "test": "istanbul cover _mocha test",
